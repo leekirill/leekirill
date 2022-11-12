@@ -1,10 +1,7 @@
-### Hi there 👋
 [![GitHub Streak](https://streak-stats.demolab.com?user=leekirill&hide_border=true)](https://git.io/streak-stats)
 
 
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=leekirill&hide_border=true)](https://git.io/streak-stats)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
