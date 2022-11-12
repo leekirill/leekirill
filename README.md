@@ -1,7 +1,7 @@
 <h2>Hi everyone!</h2>
 <ul>
-<li>👩🏼‍💻 Frontend Developer based in Kyiv, lifelong learner, in IT since 2019</li>
-<li>👀 I’m currently working with React and everything Web development related</li>
+<li>Frontend Developer based in Kyiv, lifelong learner, in IT since 2019</li>
+<li>I’m currently working with React and everything Web development related</li>
 </ul> 
 
 <h2>GitHub Stats<h2>
