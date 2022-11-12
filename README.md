@@ -1,4 +1,4 @@
-GitHub Stats
+<h2>GitHub Stats<h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leekirill&hide_border=true)](https://git.io/streak-stats)
 
