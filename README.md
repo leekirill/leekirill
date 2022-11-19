@@ -1,7 +1,8 @@
 <h2>Hi everyone!</h2>
 <ul>
 <li>Frontend Developer based in Kyiv, lifelong learner, in IT since 2019</li>
-<li>I’m currently working with React and everything Web development related</li>
+<li>👯 I'm always eager to learn and share my learning</li>
+  <li>⚡ Fun fact: I play in a punk-rock band</li>
 </ul> 
 
 <h2>GitHub Stats<h2>
