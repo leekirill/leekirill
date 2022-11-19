@@ -5,6 +5,10 @@
 <li>⚡ Fun fact: I play in a punk-rock band</li>
 </ul> 
 
+<h2>Language and tools</h2>
+
+https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat
+
 <h2>GitHub Stats<h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leekirill&hide_border=true)](https://git.io/streak-stats)
