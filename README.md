@@ -8,6 +8,8 @@
 <h2>Language and tools</h2>
 
 <img src='https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-React-Redux-61DAFB?logo=react-redux&logoColor=white&style=for-the-badge'/>
+
 
 <h2>GitHub Stats<h2>
 
