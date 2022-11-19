@@ -1,4 +1,4 @@
-<h2>Hi everyone! <img src='https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif'></h2>
+<h2>Hi everyone! <img src='https://raw.githubusercontent.com/sjabiulla/sjabiulla/main/wave.gif' width='40'></h2>
 <ul>
 <li>🖥️ Frontend Developer based in Kyiv, lifelong learner, in IT since 2019</li>
 <li>👯 I'm always eager to learn and share my learning</li>
