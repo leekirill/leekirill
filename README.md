@@ -20,7 +20,9 @@
 
 <h2>GitHub Stats<h2>
   
-<div>
+<div style='display: flex;
+    align-items: center;
+    justify-content: space-between;'>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=leekirill&hide_border=true)](https://git.io/streak-stats)
   
