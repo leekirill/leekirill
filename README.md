@@ -8,9 +8,6 @@
 <h2>Language and tools</h2>
 
 <div>
-<img src='https://img.shields.io/badge/-React-282A2C?logo=react&logoColor=5DCFEE&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-React Router-E93F4D?logo=react-router&logoColor=fff&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-Redux-7F45BF?logo=redux&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-JavaScript-EAD41B?logo=javascript&logoColor=black&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-html5-E96227?logo=html5&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-css3-0068BA?logo=css3&logoColor=white&style=for-the-badge'/>
