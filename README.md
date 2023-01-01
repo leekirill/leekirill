@@ -7,7 +7,8 @@
 
 <h2>Language and tools</h2>
 
-<div><img src='https://img.shields.io/badge/-Vue-EAD41B?logo=vuejs&logoColor=black&style=for-the-badge'/>
+<div>
+ <img src='https://img.shields.io/badge/-Vue-EAD41B?logo=vue&logoColor=black&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-JavaScript-EAD41B?logo=javascript&logoColor=black&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-html5-E96227?logo=html5&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-css3-0068BA?logo=css3&logoColor=white&style=for-the-badge'/>
