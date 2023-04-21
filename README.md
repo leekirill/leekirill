@@ -2,7 +2,7 @@
 <ul>
 <li>🖥️ Frontend Developer based in Kyiv, lifelong learner, in IT since 2019</li>
 <li>👯 I'm always eager to learn and share my learning</li>
-<li>⚡ Fun fact: I play in a punk-rock band</li>
+<li>Fun fact: I play in a punk-rock band</li>
 </ul> 
 
 <h2>Language and tools</h2>
