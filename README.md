@@ -9,6 +9,8 @@
 <div>
 <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D'/>
 <img src='https://img.shields.io/badge/-JavaScript-EAD41B?logo=javascript&logoColor=black&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/PHP-4F5B93?style=for-the-badge&logo=php&logoColor=fff'/>
+<img src='https://img.shields.io/badge/Symfony-1a1a1a?style=for-the-badge&logo=symfony&logoColor=fff'/>
 <img src='https://img.shields.io/badge/-html5-E96227?logo=html5&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-css3-0068BA?logo=css3&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-sass-C76494?logo=sass&logoColor=white&style=for-the-badge'/>
